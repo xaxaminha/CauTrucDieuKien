@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 
 public class Bai1_Max_AvsB {
@@ -13,6 +12,6 @@ public class Bai1_Max_AvsB {
     }else {
         System.out.println("Gia tri max la : " + b);
     }
-
+    scanner.close();
  }   
 }

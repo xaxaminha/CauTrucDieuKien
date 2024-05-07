@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 import java.lang.Math;
 public class Bai7_Can_Bac_3_Cua_N {
@@ -13,5 +12,6 @@ public class Bai7_Can_Bac_3_Cua_N {
             GiaTri = - Math.pow(Math.abs(n), 1.0/3);
         } 
         System.out.println("Gia tri cua phep tinh la: " + GiaTri);
+        scanner.close();
     }
 }

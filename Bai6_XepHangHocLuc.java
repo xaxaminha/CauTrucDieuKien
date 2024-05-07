@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 public class Bai6_XepHangHocLuc {
     public static void main(String[] args) {
@@ -25,6 +24,7 @@ public class Bai6_XepHangHocLuc {
         }else if (tb<5.0) {
             System.out.println("Hang F");    
         }
+        scanner.close();
     }
 
 }

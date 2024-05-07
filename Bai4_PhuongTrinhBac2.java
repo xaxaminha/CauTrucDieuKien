@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 import java.lang.Math;
 public class Bai4_PhuongTrinhBac2 {
@@ -36,6 +35,7 @@ public class Bai4_PhuongTrinhBac2 {
                 }
             }
         }
+        scanner.close();
     }
 
 }

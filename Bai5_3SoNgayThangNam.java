@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 public class Bai5_3SoNgayThangNam {
 //     Nhập 3 số a,b,c từ bàn phím. Viết chương trình kiểm tra xem bộ 3 số này theo thứ tự có phải là ngày/tháng/năm không.
@@ -90,6 +89,7 @@ public static void main(String[] args) {
         System.out.println("3 so vua nhap khong phai la ngay thang nam");
 
         }
+        scanner.close();
         }
 
 }

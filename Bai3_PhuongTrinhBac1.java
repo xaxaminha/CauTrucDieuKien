@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 public class Bai3_PhuongTrinhBac1 {
     public static void main(String[] args) {
@@ -20,7 +19,7 @@ public class Bai3_PhuongTrinhBac1 {
                 System.out.println("Phuong trinh co nghiem la 2: " + x);
                
         }
-      
+        scanner.close();
     }
 }
 

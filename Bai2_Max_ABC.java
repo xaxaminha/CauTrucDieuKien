@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 public class Bai2_Max_ABC {
     public static void main(String[] args) {
@@ -16,7 +15,9 @@ public class Bai2_Max_ABC {
             max = c;
         }
         System.out.println("Giá trị max là: " + max);
+        sc.close();
     }
+
 }
 
 

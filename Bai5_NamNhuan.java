@@ -1,4 +1,3 @@
-package BT_CauTrucDieuKien;
 import java.util.Scanner;
 public class Bai5_NamNhuan {
     public static void main(String[] args) {
@@ -13,5 +12,7 @@ public class Bai5_NamNhuan {
             System.out.println("Năm " + nam + " không phải là năm nhuận");
 
          }
-    }
+    
+         scanner.close();
+        }
 }
