@@ -15,5 +15,6 @@ public class Dem_Uoc {
         System.out.println(n + " Co tat ca " + TongSoUoc+ " Uoc" );
         System.out.println("Tong cac uoc la: " + SumUoc);
         scanner.close();
+        
         }
     }
